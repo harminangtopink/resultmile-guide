@@ -1,2 +1,14 @@
 # resultmile-guide
-HTML page archive and documentation
+
+独立页面发布说明
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
